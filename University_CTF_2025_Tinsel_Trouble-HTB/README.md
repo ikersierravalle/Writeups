@@ -5,10 +5,10 @@ Este directorio contiene los writeups de los retos que resolvimos en el **Univer
 
 ---
 
-## 📂 Estructura
+## Estructura
 Cada subcarpeta corresponde a un reto específico del CTF.
 
-## ✅ Información básica
+## Información básica
 - **Evento:** University CTF 2025 - Tinsel Trouble
 - **Organizador:** Hack The Box
 - **Formato:** CTF con retos de distintas categorías (Web, Crypto, Forensics, etc.)
